@@ -1,5 +1,7 @@
 # TrustGuard AI: AI-Assisted KYC/AML Onboarding & Compliance Review
 
+![Project Screenshot](screenshots/dashboard.png)
+
 ## Product Overview
 TrustGuard AI is a comprehensive FinTech prototype designed to streamline Customer Due Diligence (CDD) and Anti-Money Laundering (AML) processes. It acts as an "AI Copilot" for compliance teams, processing customer onboarding data, simulating verification, aggregating risk indicators, and summarizing cases to reduce manual review times while maintaining regulatory rigor.
 
